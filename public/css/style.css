@@ -1,0 +1,12 @@
+.text-center h1 {
+    font-weight: 700;
+    color: #343a40;
+}
+
+.text-center p.lead {
+    color: #555;
+}
+
+.opacity-75 {
+    opacity: 0.75;
+}
